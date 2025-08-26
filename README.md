@@ -17,8 +17,6 @@ A React Native mobile application for tracking daily habits and building positiv
 - Expo CLI
 - iOS Simulator (for Mac) or Android Studio (for Android development)
 
-Hello
-
 ## Installation
 
 1. Clone the repository:
